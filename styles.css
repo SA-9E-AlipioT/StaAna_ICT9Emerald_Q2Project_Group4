@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Gsans;
+    src: url(gilbersans.otf);
+}
+@font-face {
+    font-family: fatsans;
+    src: url(fatsans.otf);
+}
+@font-face {
+    font-family: italiansans;
+    src: url(italiansans.otf);
+}
+
+
+body {
+    font-family: italiansans;
+}
+
+h1 {
+    font-family: fatsans;
+}
+
+p {
+    font-family: Gsans;
+}
